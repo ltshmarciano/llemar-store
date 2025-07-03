@@ -24,3 +24,22 @@ shipping.php - Page that appears once checkout has been finalized and informs th
 stationery_shop.sql - database for the website
 
 About.php
+![about](https://github.com/user-attachments/assets/d39835cc-f9ab-4790-8b6f-15453eb06ce2)
+
+Account.php
+![account](https://github.com/user-attachments/assets/af22b61f-b90d-42ed-af2a-e33121afeb6d)
+
+Cart.php
+![cart](https://github.com/user-attachments/assets/751a813d-f09d-40b5-a3a0-14a0734fb6dc)
+
+Checkout.php
+![checkout](https://github.com/user-attachments/assets/2b400a54-aa06-4b79-8a41-29266ccba739)
+
+Index.php
+![index](https://github.com/user-attachments/assets/003bfafb-4f96-470b-9ebc-68e21e68f286)
+
+Offer.php
+![offer](https://github.com/user-attachments/assets/9b1996c7-bb00-4002-bd27-c18ffc65ed88)
+
+Shipping.php
+![shipping](https://github.com/user-attachments/assets/c4e55058-1c7e-4ba1-835e-8081911d788c)
